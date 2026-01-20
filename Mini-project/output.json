@@ -1,0 +1,269 @@
+{
+  "numar_total_persoane": 51,
+  "varsta_medie": 35.51,
+  "numar_persoane_pe_orase": {
+    "Cluj": 18,
+    "Bucuresti": 9,
+    "Timisoara": 6,
+    "Iasi": 7,
+    "Arad": 5,
+    "Brasov": 6
+  },
+  "people": [
+    {
+      "name": "ana",
+      "city": "Cluj",
+      "age": 30
+    },
+    {
+      "name": "ion",
+      "city": "Bucuresti",
+      "age": 25
+    },
+    {
+      "name": "george",
+      "city": "Timisoara",
+      "age": 41
+    },
+    {
+      "name": "elena",
+      "city": "Iasi",
+      "age": 22
+    },
+    {
+      "name": "paul",
+      "city": "Cluj",
+      "age": 35
+    },
+    {
+      "name": "andrei",
+      "city": "Bucuresti",
+      "age": 18
+    },
+    {
+      "name": "andrei",
+      "city": "Bucuresti",
+      "age": 19
+    },
+    {
+      "name": "cristina",
+      "city": "Cluj",
+      "age": 27
+    },
+    {
+      "name": "mihai",
+      "city": "Cluj",
+      "age": 34
+    },
+    {
+      "name": "vlad",
+      "city": "Arad",
+      "age": 45
+    },
+    {
+      "name": "teodora",
+      "city": "Arad",
+      "age": 44
+    },
+    {
+      "name": "bogdan",
+      "city": "Brasov",
+      "age": 38
+    },
+    {
+      "name": "dana",
+      "city": "Iasi",
+      "age": 26
+    },
+    {
+      "name": "florin",
+      "city": "Cluj",
+      "age": 50
+    },
+    {
+      "name": "florin",
+      "city": "Cluj",
+      "age": 51
+    },
+    {
+      "name": "monica",
+      "city": "Bucuresti",
+      "age": 33
+    },
+    {
+      "name": "sorin",
+      "city": "Timisoara",
+      "age": 29
+    },
+    {
+      "name": "laura",
+      "city": "Cluj",
+      "age": 28
+    },
+    {
+      "name": "ovidiu",
+      "city": "Brasov",
+      "age": 40
+    },
+    {
+      "name": "carmen",
+      "city": "Iasi",
+      "age": 23
+    },
+    {
+      "name": "radu",
+      "city": "Cluj",
+      "age": 60
+    },
+    {
+      "name": "bianca",
+      "city": "Bucuresti",
+      "age": 21
+    },
+    {
+      "name": "sebastian",
+      "city": "Timisoara",
+      "age": 36
+    },
+    {
+      "name": "alina",
+      "city": "Arad",
+      "age": 27
+    },
+    {
+      "name": "daniel",
+      "city": "Brasov",
+      "age": 34
+    },
+    {
+      "name": "daria",
+      "city": "Cluj",
+      "age": 19
+    },
+    {
+      "name": "marius",
+      "city": "Bucuresti",
+      "age": 42
+    },
+    {
+      "name": "anca",
+      "city": "Cluj",
+      "age": 31
+    },
+    {
+      "name": "lucian",
+      "city": "Cluj",
+      "age": 39
+    },
+    {
+      "name": "irina",
+      "city": "Iasi",
+      "age": 28
+    },
+    {
+      "name": "tudor",
+      "city": "Timisoara",
+      "age": 24
+    },
+    {
+      "name": "stefan",
+      "city": "Brasov",
+      "age": 45
+    },
+    {
+      "name": "alexandra",
+      "city": "Cluj",
+      "age": 26
+    },
+    {
+      "name": "paul",
+      "city": "Bucuresti",
+      "age": 37
+    },
+    {
+      "name": "robert",
+      "city": "Cluj",
+      "age": 130
+    },
+    {
+      "name": "cosmin",
+      "city": "Arad",
+      "age": 33
+    },
+    {
+      "name": "adrian",
+      "city": "Bucuresti",
+      "age": 48
+    },
+    {
+      "name": "nicoleta",
+      "city": "Cluj",
+      "age": 29
+    },
+    {
+      "name": "silviu",
+      "city": "Brasov",
+      "age": 52
+    },
+    {
+      "name": "corina",
+      "city": "Iasi",
+      "age": 34
+    },
+    {
+      "name": "octavian",
+      "city": "Timisoara",
+      "age": 41
+    },
+    {
+      "name": "elisa",
+      "city": "Cluj",
+      "age": 22
+    },
+    {
+      "name": "matei",
+      "city": "Bucuresti",
+      "age": 17
+    },
+    {
+      "name": "diana",
+      "city": "Cluj",
+      "age": 27
+    },
+    {
+      "name": "bogdan",
+      "city": "Cluj",
+      "age": 38
+    },
+    {
+      "name": "violeta",
+      "city": "Iasi",
+      "age": 30
+    },
+    {
+      "name": "cezar",
+      "city": "Arad",
+      "age": 43
+    },
+    {
+      "name": "marina",
+      "city": "Brasov",
+      "age": 25
+    },
+    {
+      "name": "gabriel",
+      "city": "Cluj",
+      "age": 55
+    },
+    {
+      "name": "daniela",
+      "city": "Iasi",
+      "age": 32
+    },
+    {
+      "name": "catalin",
+      "city": "Timisoara",
+      "age": 28
+    }
+  ]
+}

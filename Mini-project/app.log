@@ -1,0 +1,32 @@
+2026-01-20 14:01:16,555 | INFO | Pornire aplicație. input=D:\python Testing\Mini-project\input.csv output=output.json log=app.log log_level=INFO
+2026-01-20 14:01:16,556 | WARNING | Rând invalid la linia 4: age invalid: 'not_a_number' | row={'name': 'maria', 'city': 'Cluj', 'age': 'not_a_number'}
+2026-01-20 14:01:16,556 | WARNING | Rând invalid la linia 10: age invalid: '' | row={'name': 'Ioana', 'city': 'Timisoara', 'age': ''}
+2026-01-20 14:01:16,557 | WARNING | Rând invalid la linia 15: name lipsă | row={'name': ' ', 'city': 'Bucuresti', 'age': '29'}
+2026-01-20 14:01:16,557 | WARNING | Rând invalid la linia 16: city lipsă | row={'name': 'Raluca', 'city': '', 'age': '31'}
+2026-01-20 14:01:16,557 | WARNING | Rând invalid la linia 18: age invalid: 'abc' | row={'name': 'Alex', 'city': 'Brasov', 'age': 'abc'}
+2026-01-20 14:01:16,557 | WARNING | Rând invalid la linia 41: age în afara intervalului: -5 | row={'name': 'George', 'city': 'Cluj', 'age': '-5'}
+2026-01-20 14:01:16,557 | WARNING | Rând invalid la linia 43: age în afara intervalului: 131 | row={'name': 'Robert', 'city': 'Cluj', 'age': '131'}
+2026-01-20 14:01:16,558 | WARNING | Rând invalid la linia 44: age invalid: 'twenty' | row={'name': 'Simona', 'city': 'Iasi', 'age': 'twenty'}
+2026-01-20 14:01:16,558 | INFO | Am citit 51 persoane valide din D:\python Testing\Mini-project\input.csv
+2026-01-20 14:01:16,558 | INFO | Statistici calculate: total=51, avg_age=35.51, orase=6
+2026-01-20 14:01:16,560 | INFO | Am scris raportul JSON: output.json
+2026-01-20 14:01:35,329 | INFO | Pornire aplicație. input=D:\python Testing\Mini-project\input.csv output=output.json log=app.log log_level=INFO
+2026-01-20 14:01:35,330 | WARNING | Rând invalid la linia 4: age invalid: 'not_a_number' | row={'name': 'maria', 'city': 'Cluj', 'age': 'not_a_number'}
+2026-01-20 14:01:35,330 | WARNING | Rând invalid la linia 10: age invalid: '' | row={'name': 'Ioana', 'city': 'Timisoara', 'age': ''}
+2026-01-20 14:01:35,330 | WARNING | Rând invalid la linia 15: name lipsă | row={'name': ' ', 'city': 'Bucuresti', 'age': '29'}
+2026-01-20 14:01:35,330 | WARNING | Rând invalid la linia 16: city lipsă | row={'name': 'Raluca', 'city': '', 'age': '31'}
+2026-01-20 14:01:35,331 | WARNING | Rând invalid la linia 18: age invalid: 'abc' | row={'name': 'Alex', 'city': 'Brasov', 'age': 'abc'}
+2026-01-20 14:01:35,331 | WARNING | Rând invalid la linia 41: age în afara intervalului: -5 | row={'name': 'George', 'city': 'Cluj', 'age': '-5'}
+2026-01-20 14:01:35,331 | WARNING | Rând invalid la linia 43: age în afara intervalului: 131 | row={'name': 'Robert', 'city': 'Cluj', 'age': '131'}
+2026-01-20 14:01:35,331 | WARNING | Rând invalid la linia 44: age invalid: 'twenty' | row={'name': 'Simona', 'city': 'Iasi', 'age': 'twenty'}
+2026-01-20 14:01:35,331 | INFO | Am citit 51 persoane valide din D:\python Testing\Mini-project\input.csv
+2026-01-20 14:01:35,331 | INFO | Statistici calculate: total=51, avg_age=35.51, orase=6
+2026-01-20 14:01:35,333 | INFO | Am scris raportul JSON: output.json
+2026-01-20 14:01:49,908 | WARNING | Rând invalid la linia 4: age invalid: 'not_a_number' | row={'name': 'maria', 'city': 'Cluj', 'age': 'not_a_number'}
+2026-01-20 14:01:49,909 | WARNING | Rând invalid la linia 10: age invalid: '' | row={'name': 'Ioana', 'city': 'Timisoara', 'age': ''}
+2026-01-20 14:01:49,909 | WARNING | Rând invalid la linia 15: name lipsă | row={'name': ' ', 'city': 'Bucuresti', 'age': '29'}
+2026-01-20 14:01:49,909 | WARNING | Rând invalid la linia 16: city lipsă | row={'name': 'Raluca', 'city': '', 'age': '31'}
+2026-01-20 14:01:49,909 | WARNING | Rând invalid la linia 18: age invalid: 'abc' | row={'name': 'Alex', 'city': 'Brasov', 'age': 'abc'}
+2026-01-20 14:01:49,909 | WARNING | Rând invalid la linia 41: age în afara intervalului: -5 | row={'name': 'George', 'city': 'Cluj', 'age': '-5'}
+2026-01-20 14:01:49,910 | WARNING | Rând invalid la linia 43: age în afara intervalului: 131 | row={'name': 'Robert', 'city': 'Cluj', 'age': '131'}
+2026-01-20 14:01:49,910 | WARNING | Rând invalid la linia 44: age invalid: 'twenty' | row={'name': 'Simona', 'city': 'Iasi', 'age': 'twenty'}

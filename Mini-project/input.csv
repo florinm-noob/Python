@@ -1,0 +1,60 @@
+name,city,age
+ Ana ,cluj,30
+ION,bucuresti,25
+maria,Cluj,not_a_number
+George,Timisoara,41
+elena , IASI ,22
+Paul,cluj,35
+Andrei,Bucuresti,18
+andrei , bucuresti ,19
+Ioana,Timisoara,
+Cristina,Cluj,27
+mihai,cluj,34
+Vlad,Arad,45
+Teodora,arad,44
+ ,Bucuresti,29
+Raluca,,31
+Bogdan,Brasov,38
+Alex,Brasov,abc
+Dana,IASI,26
+Florin,Cluj,50
+florin , cluj , 51
+Monica,Bucuresti,33
+Sorin,Timisoara,29
+Laura,Cluj,28
+Ovidiu,Brasov,40
+Carmen,Iasi,23
+Radu,Cluj,60
+Bianca,Bucuresti,21
+Sebastian,Timisoara,36
+Alina,Arad,27
+Daniel,Brasov,34
+Daria,Cluj,19
+Marius,Bucuresti,42
+Anca,Cluj,31
+Lucian,Cluj,39
+Irina,Iasi,28
+Tudor,Timisoara,24
+Stefan,Brasov,45
+Alexandra,Cluj,26
+Paul , Bucuresti , 37
+George,Cluj,-5
+Robert,Cluj,130
+Robert,Cluj,131
+Simona,Iasi,twenty
+Cosmin,Arad,33
+Adrian,Bucuresti,48
+Nicoleta,Cluj,29
+Silviu,Brasov,52
+Corina,Iasi,34
+Octavian,Timisoara,41
+Elisa,Cluj,22
+Matei,Bucuresti,17
+Diana,Cluj,27
+Bogdan,Cluj,38
+Violeta,Iasi,30
+Cezar,Arad,43
+Marina,Brasov,25
+Gabriel,Cluj,55
+Daniela,Iasi,32
+Catalin,Timisoara,28
