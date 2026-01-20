@@ -1,0 +1,12 @@
+{
+    "numar_total_persoane": 20,
+    "varsta_medie": 32.9,
+    "numar_persoane_pe_orase": {
+        "Cluj": 7,
+        "Bucuresti": 4,
+        "Timisoara": 2,
+        "Iasi": 3,
+        "Arad": 2,
+        "Brasov": 2
+    }
+}

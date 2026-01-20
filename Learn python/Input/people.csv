@@ -1,0 +1,26 @@
+name,city,age
+ Ana ,cluj,30
+ION,bucuresti,25
+maria,Cluj,not_a_number
+George,Timisoara,41
+elena , IASI ,22
+Paul,cluj,35
+Andrei,Bucuresti,18
+andrei , bucuresti ,19
+Ioana,Timisoara,
+Cristina,Cluj,27
+mihai,cluj,34
+Vlad,Arad,45
+Teodora,arad,44
+ ,Bucuresti,29
+Raluca,,31
+Bogdan,Brasov,38
+Alex,Brasov,abc
+Dana,IASI,26
+Florin,Cluj,50
+florin , cluj , 51
+Monica,Bucuresti,33
+Sorin,Timisoara,29
+Laura,Cluj,28
+Ovidiu,Brasov,40
+Carmen,Iasi,23
